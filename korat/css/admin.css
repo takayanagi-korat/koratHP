@@ -1,0 +1,12 @@
+#wpcf-group-interview {
+  display: none;
+}
+
+option[value=pending] {
+  display: none;
+}
+
+#categorychecklist,
+#categorychecklist-pop {
+  display: none;
+}
